@@ -8,13 +8,13 @@
                 </ol>
                 <div class="carousel-inner rounded">
                     <div class="carousel-item active">
-                        <img class="d-block w-100 object-cover slider-img" src="img/img-slider/slider4.jpg" alt="First slide">
+                        <img class="d-block w-100 object-cover slider-img" src="img/img-slider/slider-1.jpg" alt="First slide">
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100 object-cover slider-img" src="img/img-slider/slider6.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100 object-cover slider-img" src="img/img-slider/slider8.jpg" alt="Third slide">
+                        <img class="d-block w-100 object-cover slider-img" src="img/img-slider/slider-4.jpg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
